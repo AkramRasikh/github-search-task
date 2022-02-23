@@ -53,3 +53,4 @@ On load, the app reads from local storage and sets state.
 - Refactor local storage tests
 - Disable show favourite tab button if there are no favourites
 - Make the app look nice 😆
+- Add a loading spinner
