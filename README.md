@@ -47,7 +47,6 @@ On load, the app reads from local storage and sets state.
 - Bonus task
 - More research into the fore-mentioned generating types issue (had to resort to generating all types from GitHub and cherry pick what I wanted). This also explains why I removed the content of `generated-sources` folder as it was too bloated
 - Add some a couple more tests for clicking between tabs
-- Solve the double render on clicking some items
 - Move app.tsx logic to custom hook
 - Refactor tests (some duplication can be moved to a test-utils)
 - Refactor local storage tests
